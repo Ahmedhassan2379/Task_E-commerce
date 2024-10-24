@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Double Caramel ",
+    "Descrption": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "Image": "images/products/sb-ang1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "White Chocolate Mocha ",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "Image": "images/products/sb-ang2.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Iced Cafe Latte",
+    "Descrption": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "Image": "images/products/sb-core1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "White Chocolate Mocha",
+    "Descrption": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "Image": "images/products/sb-core2.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Iced Caramel Macchiato",
+    "Descrption": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "Image": "images/products/sb-react1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Hot Caramel Macchiato",
+    "Descrption": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "Image": "images/products/sb-ts1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Iced Matcha Latte",
+    "Descrption": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "Image": "images/products/hat-core1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Honey Cake",
+    "Descrption": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "Image": "images/products/hat-react1.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Blueberry Cheesecake",
+    "Descrption": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "Image": "images/products/hat-react2.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Glazed Donuts",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "Image": "images/products/sb-ang2.png",
+    "StockQuantity": 100,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Laptop Mac",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 2000,
+    "Image": "images/products/lap4.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Laptop Lenovo",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 1800,
+    "Image": "images/products/lap3.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Laptop HP",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 1100,
+    "Image": "images/products/lap2.png",
+    "StockQuantity": 100,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Laptop Dell",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 1200,
+    "Image": "images/products/lap1.png",
+    "StockQuantity": 100,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Green Sweater",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 60,
+    "Image": "images/products/green-front-sweater.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Summer-Shirt",
+    "Descrption": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 30,
+    "Image": "images/products/t-shirt.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Black Jaket",
+    "Descrption": "this coton jaket",
+    "Price": 120,
+    "Image": "images/products/shirt2.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Green Shirt",
+    "Descrption": "this coton shirt",
+    "Price": 180,
+    "Image": "images/products/shirt3.jpg",
+    "StockQuantity": 100,
+    "CategoryId": 2
+  }
+]

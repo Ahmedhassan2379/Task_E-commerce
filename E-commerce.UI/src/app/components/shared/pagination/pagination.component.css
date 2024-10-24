@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-btn {
+    padding: 10px;
+    margin: 0 5px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.page-btn.active {
+    background-color: #218838;
+}
+
+.page-btn[disabled] {
+    background-color: #ccc;
+    cursor: not-allowed;
+}

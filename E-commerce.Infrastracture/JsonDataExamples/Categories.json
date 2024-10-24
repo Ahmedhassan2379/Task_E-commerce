@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Electronics",
+    "Description": "All kinds of electronic products"
+  },
+  {
+    "Name": "Clothing",
+    "Description": "Various kinds of clothing"
+  },
+  {
+    "Name": "Home Appliances",
+    "Description": "Appliances for home use"
+  }
+]

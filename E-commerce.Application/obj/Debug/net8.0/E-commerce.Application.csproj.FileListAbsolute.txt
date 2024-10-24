@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\bin\Debug\net8.0\E-commerce.Application.deps.json
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\bin\Debug\net8.0\E-commerce.Application.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\bin\Debug\net8.0\E-commerce.Application.pdb
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\bin\Debug\net8.0\E-commerce.Domain.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\bin\Debug\net8.0\E-commerce.Domain.pdb
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commer.7B8DFC37.Up2Date
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\refint\E-commerce.Application.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.pdb
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\ref\E-commerce.Application.dll

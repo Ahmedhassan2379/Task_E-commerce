@@ -1,0 +1,24 @@
+<div class="card-centered">
+    <div class="filter-card">
+        <h2>Filter by Category:</h2>
+        <div class="filter-section">
+            <label *ngFor="let category of categories">
+                <input type="checkbox" value="{{category.name}}" (change)="filterProducts(category.name)">
+                {{category.name}}
+            </label>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="product-grid">
+        <div *ngFor="let item of products" class="product">
+            <img [src]="item.image" alt="Product 1">
+            <h3 style="text-align: center;">{{item.name}}</h3>
+            <div class="price">${{item.price}}</div>
+            <button (click)="addToCart(item)">Add to Cart</button>
+        </div>
+    </div>
+</div>
+<app-pagination [totalPages]="totalPages" [currentPage]="currentPage" (pageChanged)="onPageChange($event)">
+</app-pagination>
