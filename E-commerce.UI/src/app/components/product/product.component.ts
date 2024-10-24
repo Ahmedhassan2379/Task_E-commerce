@@ -18,6 +18,7 @@ export class ProductComponent {
 
   cartItemCount : number = 0;
   products:Product[] = []
+  filterProductArray:any[] = []
   categories:any = []
   filterArry:any[] = []
   currentPage = 1;
@@ -38,6 +39,7 @@ export class ProductComponent {
     this.productService.getAllProducts().subscribe((response: Object) => {
       console.log(response);
       this.products = response as Product[];
+      this.filterProductArray = this.products;
       this.totalPages = Math.ceil(this.products.length / this.pageSize);
     })
   }
@@ -65,7 +67,7 @@ export class ProductComponent {
 
   onPageChange(newPage: number): void {
     this.currentPage = newPage;
-    this.totalPages = Math.ceil(this.products.length / this.pageSize);
+    this.totalPages = Math.ceil(this.filterProductArray.length / this.pageSize);
     this.productService.GetProductPagination(this.currentPage,this.pageSize).subscribe((response: Object) => {
       this.products = response as Product[];
     })

@@ -13,3 +13,4 @@ C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-comme
 C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\refint\E-commerce.Application.dll
 C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.pdb
 C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\ref\E-commerce.Application.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Application\obj\Debug\net8.0\E-commerce.Application.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\User\Desktop\E-commerce\E-commerce.Infrastracture\obj\Debug\net8.0\refi
 C:\Users\User\Desktop\E-commerce\E-commerce.Infrastracture\obj\Debug\net8.0\E-commerce.Infrastracture.pdb
 C:\Users\User\Desktop\E-commerce\E-commerce.Infrastracture\obj\Debug\net8.0\E-commerce.Infrastracture.genruntimeconfig.cache
 C:\Users\User\Desktop\E-commerce\E-commerce.Infrastracture\obj\Debug\net8.0\ref\E-commerce.Infrastracture.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Infrastracture\obj\Debug\net8.0\E-commerce.Infrastracture.sourcelink.json

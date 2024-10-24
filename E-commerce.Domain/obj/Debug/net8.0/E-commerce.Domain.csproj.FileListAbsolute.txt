@@ -9,3 +9,4 @@ C:\Users\User\Desktop\E-commerce\E-commerce.Domain\obj\Debug\net8.0\E-commerce.D
 C:\Users\User\Desktop\E-commerce\E-commerce.Domain\obj\Debug\net8.0\refint\E-commerce.Domain.dll
 C:\Users\User\Desktop\E-commerce\E-commerce.Domain\obj\Debug\net8.0\E-commerce.Domain.pdb
 C:\Users\User\Desktop\E-commerce\E-commerce.Domain\obj\Debug\net8.0\ref\E-commerce.Domain.dll
+C:\Users\User\Desktop\E-commerce\E-commerce.Domain\obj\Debug\net8.0\E-commerce.Domain.sourcelink.json
